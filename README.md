@@ -19,7 +19,7 @@ This is a collection of node.js error classes that we use internally. If you nee
 * Change version in package.json
 git add . -A
 git commit -m "Upgrading to v0.2.0"
-git tag -a v0.2.7 -m 'version 0.2.0'
+git tag -a v0.2.0 -m 'version 0.2.0'
 git push --tags
 npm publish
 
